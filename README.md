@@ -1,4 +1,5 @@
-![Preview do Projeto](./sort2.png)
+![Preview do Projeto]
+<img width="1376" height="768" alt="devsorteio imagem2" src="https://github.com/user-attachments/assets/a375a6ed-7225-41d4-854d-c3e8c98d996c" />
 
 
 🎲 DevSorteio - Sorteador de Números
